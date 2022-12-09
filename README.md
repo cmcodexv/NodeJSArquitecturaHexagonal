@@ -16,7 +16,7 @@ Este proyecto es un ejemplo de arquitectura hexagonal con DDD usando NodeJS, Typ
 ```sh
 $ config.yml up -d
 ```
-- [Restaurar archivo "backup.sql" en la carpeta "db" con Adminer](https://hub.docker.com/_/adminer/)
+- [Restaurar archivo "src/db/backup.sql" con Adminer](https://hub.docker.com/_/adminer/)
 - Instalar node_modules:
 ```sh
 $ npm i
