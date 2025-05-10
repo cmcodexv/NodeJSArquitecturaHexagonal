@@ -1,7 +1,4 @@
 #use postgres/example as user/password
-version: '1.0'
-nodePort: 3000
-
 services:
   db:
     image: postgres

@@ -1,5 +1,4 @@
 -- Adminer 4.8.1 PostgreSQL 15.1 (Debian 15.1-1.pgdg110+1) dump
-
 DROP TABLE IF EXISTS "employee";
 DROP SEQUENCE IF EXISTS employee_id_seq;
 CREATE SEQUENCE employee_id_seq INCREMENT 1 MINVALUE 1 MAXVALUE 2147483647 START 7 CACHE 1;
