@@ -1,5 +1,5 @@
 # EJEMPLO DE DOMAIN-DRIVEN DESING CON NODEJS Y TYPESCRIPT
-Este proyecto es un ejemplo de arquitectura hexagonal con DDD usando NodeJS, TypeScript, PostgreSQL, Docker y Jest.
+Este proyecto es un ejemplo de arquitectura hexagonal usando NodeJS, TypeScript, PostgreSQL, Docker y Jest.
 
 ## Dependencias
 
@@ -22,6 +22,8 @@ Este proyecto es un ejemplo de arquitectura hexagonal con DDD usando NodeJS, Typ
 ```sh
  npm i
 ```
+- Crear archivo ".env" en donde irá la cadena de conexión, tomar como ejemplo ".envExample".
+
 - Ejecutar Servidor:
 ```sh
  npm run dev
